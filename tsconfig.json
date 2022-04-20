@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ESNext"],
+    "target": "ES6",
+    "noEmitOnError": true,
+    "module": "CommonJS",
+    "outDir": "dist",
+  },
+  "exclude": ["src/**/*.test.ts"]
+}
